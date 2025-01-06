@@ -1,5 +1,5 @@
 # Configuration de git 
-
+#modification test 6 janvier 2025
 ## definir votre nom et votre adresse mail 
 ```shell script
    git config --global user.name "Herve"
